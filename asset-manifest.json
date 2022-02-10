@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kloj00/crwn-clothing.git/static/css/main.8e6a976d.css",
+    "main.js": "/kloj00/crwn-clothing.git/static/js/main.e9bb706a.js",
+    "index.html": "/kloj00/crwn-clothing.git/index.html",
+    "main.8e6a976d.css.map": "/kloj00/crwn-clothing.git/static/css/main.8e6a976d.css.map",
+    "main.e9bb706a.js.map": "/kloj00/crwn-clothing.git/static/js/main.e9bb706a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e6a976d.css",
+    "static/js/main.e9bb706a.js"
+  ]
+}
