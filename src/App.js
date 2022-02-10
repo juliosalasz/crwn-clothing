@@ -1,6 +1,6 @@
 import Homepage from "./components/homepageComponent";
 import "./App.css";
-/*Agredado 1 */
+/*Agredado 2 */
 function App() {
   return (
     <div className="App">
